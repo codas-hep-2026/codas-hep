@@ -4,5 +4,6 @@
   - Hallo Welt
   - Olá mundo
   - hallo wereld
-  - हैलो वर्ल्ड
+  - नमस्कार संसार
   - Ciao mondo
+
