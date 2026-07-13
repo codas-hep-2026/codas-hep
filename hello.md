@@ -3,6 +3,6 @@
   - Hola Mundo 
   - Hallo Welt
   - Olá mundo
-  - hallo wereld_1conflit
+  - hallo conflict
   - हैलो वर्ल्ड
   - Ciao mondo
